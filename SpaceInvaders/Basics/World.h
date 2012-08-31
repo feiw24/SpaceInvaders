@@ -3,7 +3,7 @@
 //  SpaceInvaders
 //
 //  Created by Fei Wang on 8/3/12.
-//  Copyright (c) 2012 Crystal Dynamics, Square Enix. All rights reserved. why?
+//  Copyright (c) 2012 Crystal Dynamics, Square Enix. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
