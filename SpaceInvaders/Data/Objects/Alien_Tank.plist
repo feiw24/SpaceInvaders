@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Type</key>
+	<string>Alien_tank</string>
+	<key>Comment</key>
+	<string>tank that has higher hp</string>
+	<key>Components</key>
+	<array>
+		<dict>
+			<key>ComponentType</key>
+			<string>HealthComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>HP</key>
+				<integer>180</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>DrawComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Image</key>
+				<string>alien1_yellow.png</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>AIComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Speed</key>
+				<integer>1</integer>
+				<key>StepDownDist</key>
+				<integer>30</integer>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

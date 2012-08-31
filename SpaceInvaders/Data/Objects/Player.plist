@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Type</key>
+	<string>Alien_base</string>
+	<key>Comment</key>
+	<string>this is a enemy template that represent a basic alien type that can move around and shoot one bullet at a time</string>
+	<key>Components</key>
+	<array>
+		<dict>
+			<key>ComponentType</key>
+			<string>HealthComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>HP</key>
+				<integer>300</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>DrawComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Scale</key>
+				<real>0.6</real>
+				<key>Image</key>
+				<string>player_mid.png</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>AttackComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>ShootThrough</key>
+				<false/>
+				<key>ShootThree</key>
+				<false/>
+				<key>ProjectileSpeed</key>
+				<integer>3</integer>
+				<key>Damage</key>
+				<integer>100</integer>
+				<key>CoolDown</key>
+				<real>0.5</real>
+				<key>DirectionX</key>
+				<integer>0</integer>
+				<key>DirectionY</key>
+				<integer>1</integer>
+				<key>BulletPath</key>
+				<string>Bullet</string>
+				<key>ShootThroughBulletPath</key>
+				<string>Bullet_Powerup</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>PlayerComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>MovementMultiplier</key>
+				<real>0.125</real>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

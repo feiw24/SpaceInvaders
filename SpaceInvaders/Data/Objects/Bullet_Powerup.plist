@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Type</key>
+	<string>Bullet</string>
+	<key>Comment</key>
+	<string>Bullet object</string>
+	<key>Components</key>
+	<array>
+		<dict>
+			<key>ComponentType</key>
+			<string>DrawComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Image</key>
+				<string>bullet_green.png</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>HealthComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>HP</key>
+				<integer>180</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>ProjectileComponent</string>
+			<key>ComponentData</key>
+			<dict/>
+		</dict>
+	</array>
+</dict>
+</plist>

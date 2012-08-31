@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Type</key>
+	<string>Alien_base</string>
+	<key>Comment</key>
+	<string>this is a enemy template that represent a basic alien type that can only move around</string>
+	<key>Components</key>
+	<array>
+		<dict>
+			<key>ComponentType</key>
+			<string>HealthComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>HP</key>
+				<integer>80</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>DrawComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Image</key>
+				<string>alien1.png</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ComponentType</key>
+			<string>AIComponent</string>
+			<key>ComponentData</key>
+			<dict>
+				<key>Speed</key>
+				<integer>1</integer>
+				<key>StepDownDist</key>
+				<integer>30</integer>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
