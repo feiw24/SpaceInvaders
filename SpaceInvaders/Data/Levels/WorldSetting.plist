@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Desc</key>
+	<string>This file defines level settings and world settings</string>
+	<key>Levels</key>
+	<array>
+		<string>Level1.plist</string>
+		<string>Level2.plist</string>
+		<string>Level3.plist</string>
+		<string>Level4.plist</string>
+		<string>Level5.plist</string>
+		<string>Level1.plist</string>
+		<string>Level2.plist</string>
+		<string>Level3.plist</string>
+		<string>Level4.plist</string>
+		<string>Level5.plist</string>
+	</array>
+	<key>PlayerDataPath</key>
+	<string>Player.plist</string>
+	<key>PlayerInitPosX</key>
+	<integer>200</integer>
+	<key>PlayerInitPosY</key>
+	<integer>50</integer>
+	<key>BackgroundImage</key>
+	<string>bg.jpeg</string>
+</dict>
+</plist>

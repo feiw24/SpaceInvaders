@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultCoolDown</key>
+	<integer>3</integer>
+	<key>DefaultProjectileSpeed</key>
+	<integer>3</integer>
+	<key>DefaultProjectileDamage</key>
+	<integer>100</integer>
+	<key>DefaultAttackChance</key>
+	<integer>70</integer>
+	<key>DefaultDirectionX</key>
+	<integer>0</integer>
+	<key>DefaultDirectionY</key>
+	<integer>-1</integer>
+	<key>DefaultShootThree</key>
+	<false/>
+	<key>DefaultShootThrough</key>
+	<false/>
+	<key>DefaultBulletPath</key>
+	<string>Bullet.plist</string>
+	<key>DefaultShootThroughBulletPath</key>
+	<string>Bullet_Powerup.plist</string>
+</dict>
+</plist>

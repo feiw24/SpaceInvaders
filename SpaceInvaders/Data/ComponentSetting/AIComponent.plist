@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DefaultSpeed</key>
+	<integer>1</integer>
+	<key>DefaultDirectionX</key>
+	<integer>1</integer>
+	<key>DefaultDirectionY</key>
+	<string>0</string>
+	<key>DefaultDashRange</key>
+	<integer>90</integer>
+	<key>DefaultDashSpeed</key>
+	<integer>2</integer>
+	<key>DefaultStepDownDist</key>
+	<integer>30</integer>
+	<key>DefaultDashDirectionX</key>
+	<integer>0</integer>
+	<key>DefaultDashDirectionY</key>
+	<integer>-1</integer>
+</dict>
+</plist>

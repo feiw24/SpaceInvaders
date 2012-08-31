@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LeftStickImage</key>
+	<string>button.png</string>
+	<key>LeftStickImageScale</key>
+	<integer>1</integer>
+	<key>LeftStickImageOpacity</key>
+	<integer>150</integer>
+	<key>LeftStickBackgroundImage</key>
+	<string>button.png</string>
+	<key>LeftStickBackgroundImageScale</key>
+	<real>1.5</real>
+	<key>LeftStickBackgroundImageOpacity</key>
+	<integer>100</integer>
+	<key>LeftStickPosX</key>
+	<integer>72</integer>
+	<key>LeftStickPosY</key>
+	<integer>64</integer>
+	<key>LeftStickSizeX</key>
+	<integer>72</integer>
+	<key>LeftStickSizeY
+&lt;!DOCTYPE plist PUBLIC &quot;-//Apple//DTD PLIST 1.0//EN&quot; &quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;&gt;
+&lt;plist version=&quot;1.0&quot;&gt;
+&lt;string&gt;&lt;/string&gt;
+&lt;/plist&gt;
+LeftStickSizeY</key>
+	<integer>72</integer>
+	<key>RightButtonImage</key>
+	<string>button.png</string>
+	<key>RightButtonOpacity</key>
+	<integer>100</integer>
+	<key>RightButtonActivateOpacity</key>
+	<integer>150</integer>
+	<key>RightButtonPressOpacity</key>
+	<integer>200</integer>
+	<key>RightButtonPosX</key>
+	<integer>394</integer>
+	<key>RightButtonPosY</key>
+	<integer>60</integer>
+	<key>RightButtonSizeX</key>
+	<integer>54</integer>
+	<key>RightButtonSizeY</key>
+	<integer>54</integer>
+</dict>
+</plist>
