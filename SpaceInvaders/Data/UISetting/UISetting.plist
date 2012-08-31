@@ -7,7 +7,7 @@
 	<key>LeftStickImageScale</key>
 	<integer>1</integer>
 	<key>LeftStickImageOpacity</key>
-	<integer>150</integer>
+	<integer>151</integer>
 	<key>LeftStickBackgroundImage</key>
 	<string>button.png</string>
 	<key>LeftStickBackgroundImageScale</key>
